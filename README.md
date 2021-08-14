@@ -7,7 +7,7 @@
 <div>
   <p>Tecnologias em uso.</p>
   <img align="center" alt="Edilson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Edilson-Python" height="30" width="40" src="https://github.com/EdilsonDanieldeSouza/Delphi/blob/main/%C3%8Dcones%20Delphi/delphi.ico">
+   <img align="center" alt="Edilson-Python" height="30" width="40" src="https://github.com/EdilsonDanieldeSouza/Delphi/blob/main/%C3%8Dcones%20Delphi/file_type_delphi_icon_130648.svg">
 </div>
   
   
