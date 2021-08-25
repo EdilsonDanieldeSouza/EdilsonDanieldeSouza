@@ -7,7 +7,7 @@
 <br>
 <div>
   <img align="center" alt="Edilson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Edilson-Python" height="30" width="40" src="https://github.com/EdilsonDanieldeSouza/Delphi/blob/main/%C3%8Dcones%20Delphi/file_type_delphi_icon_130648.svg">
+  <img align="center" alt="Edilson-Delphi" height="30" width="40" src="https://github.com/EdilsonDanieldeSouza/Delphi/blob/main/%C3%8Dcones%20Delphi/file_type_delphi_icon_130648.svg">
 </div>
   
 ###
